@@ -14,10 +14,11 @@ Below images represent the 2 matrix types :
 ![Count Vectorizer Matrix](count_vec_matrix.png) <br/>
 
 <br/>
-## 2. TF_IDF Vectorizer Matrix 
-![TF-IDF Vectorizer Matrix](tf_idf_matrix.png) <br/>
+ 
+## 2. TF IDF Vectorizer Matrix 
+![TF IDF Vectorizer Matrix](tf_idf_matrix.png) <br/>
 
-Below mentioned are the steps that I followed for this problem: <br/>
+<b> Below mentioned are the steps that I followed for this problem: <b/> <br/>
 a.) Load Amazon reviews Data <br/>
 b.) Read lines and decode using utf-8 <br/>
 c.) Clean text by removing punctuations and stop words, lemmatizing them and also seperating labels <br/>
