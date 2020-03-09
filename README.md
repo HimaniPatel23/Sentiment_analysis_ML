@@ -1,4 +1,4 @@
-# Sentiment_analysis_ML
+# Sentiment Analysis Using Machine Learning
 
 Sentiment analysis is one of the populat NLP projects amoung begineers. The goal is to predict which text contains the negative or positive sentiment. <br/>
 <br/>
