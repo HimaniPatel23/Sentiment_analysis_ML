@@ -10,7 +10,11 @@ There are 2 ways to create a matrix representation of text corpus( list of text)
 <br/>
 Below images represent the 2 matrix types :
 
-![Count Vectorizer Matrix](count_vec_matrix.png) <br/><br/>
+## 1. Count Vecorizer Matrix 
+![Count Vectorizer Matrix](count_vec_matrix.png) <br/>
+
+<br/>
+## 2. TF_IDF Vectorizer Matrix 
 ![TF-IDF Vectorizer Matrix](tf_idf_matrix.png) <br/>
 
 Below mentioned are the steps that I followed for this problem: <br/>
