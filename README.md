@@ -19,7 +19,7 @@ Below images represent the 2 matrix types :
 ![TF IDF Vectorizer Matrix](tf_idf_matrix.png) <br/>
 
 <b> Below mentioned are the steps that I followed for this problem: <b/> <br/>
-a.) Load Amazon reviews Data <br/>
+a.) Load Amazon reviews Data (To get the original dataset please <a href="https://www.kaggle.com/bittlingmayer/amazonreviews"> Click Here <a/>) <br/>
 b.) Read lines and decode using utf-8 <br/>
 c.) Clean text by removing punctuations and stop words, lemmatizing them and also seperating labels <br/>
 d.) Once all 3.6 million reviews are cleaned, store them in a DataFrame for easy data manipulation <br/>
